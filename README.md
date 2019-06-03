@@ -1,6 +1,6 @@
 # ratchetsequencer
 
-https://raw.githubusercontent.com/jrparadis/ratchetsequencer/master/default.PNG
+!(https://raw.githubusercontent.com/jrparadis/ratchetsequencer/master/default.PNG)
 
 a little midi sequencer that retriggers notes in the pattern so that the note is played x amount of times, but changes 
 sustain time so the over all beat time doesn't change. ie 1 for retrigger is one note at 500ms, 2 is 2 notes at 250ms, 
